@@ -4,7 +4,7 @@ import { StyleSheet, View,Text, FlatList, Alert, TouchableWithoutFeedback, Keybo
 export default function App() {
   return(
     <View>
-      <Text>Hello this is bull</Text>
+      <Text>Hello this is bull the baddesr</Text>
     </View>
   );
 }
